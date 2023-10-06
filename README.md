@@ -1,1 +1,1 @@
-# CNN Classifier project
+# CNNClassifier project
